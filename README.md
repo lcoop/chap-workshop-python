@@ -12,7 +12,7 @@ Welcome to the CHAP workshop! This repository is for practicing Git and GitHub.
 ## Participants
 
 <!-- Add your name below this line -->
-Lisa van Aardenne
+Lisa van Aardenne 
 
 ## Running the Example
 
